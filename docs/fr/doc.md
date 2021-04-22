@@ -27,9 +27,6 @@ if (Request::isPost()) {
 
 * PHP >= 7.4
 
-Si vous souhaitez une comptabilité avec PHP 7.0 ou 7.1 ou PHP 7.2 ou PHP 7.3, vous pouvez utiliser la version 1.0 :
-[DAW PHP Validator 1.1](https://github.com/dev-and-web/daw-php-validator/tree/1.1)
-
 
 
 
