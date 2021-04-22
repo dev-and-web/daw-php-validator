@@ -74,7 +74,7 @@ You also have many other features.
 
 Installation via Composer:
 ```
-php composer.phar require dev-and-web/daw-php-validator 2.0.*
+composer require dev-and-web/daw-php-validator
 ```
 
 

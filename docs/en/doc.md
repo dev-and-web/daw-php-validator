@@ -67,7 +67,7 @@ The objective is to verify the submitted data, which is essential for the securi
 
 Installation via Composer:
 ```
-php composer.phar require dev-and-web/daw-php-validator 2.0.*
+composer require dev-and-web/daw-php-validator
 ```
 
 

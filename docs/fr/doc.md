@@ -67,7 +67,7 @@ L'objectif est de vérifier les données soumises, ce qui est indispensable pour
 
 Installation via Composer :
 ```
-php composer.phar require dev-and-web/daw-php-validator 2.0.*
+composer require dev-and-web/daw-php-validator
 ```
 
 
